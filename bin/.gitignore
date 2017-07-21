@@ -1,7 +1,7 @@
 *
 *.S
 *.dump
-*.bin
+# *.bin
 *.bin_rep
 !.gitignore
 !blank.bin
